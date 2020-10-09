@@ -119,7 +119,7 @@ background-color: lightblue;
     }
     article {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: ;
     }
 }
