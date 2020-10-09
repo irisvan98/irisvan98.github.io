@@ -97,7 +97,7 @@ article img:hover {
 article a:hover {
 background-color: lightblue;
 }
-@media screen and (mix-width: 600px){
+@media screen and (min-width: 600px){
     body {
         background-color: mediumpurple;
     }
